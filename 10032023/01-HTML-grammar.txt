@@ -1,0 +1,10 @@
+<html></html> #根标签
+<br />
+
+<html>
+	<head> #头部标签
+		<title></title> #网页标题
+	</head>
+	<body> #文档主体部分
+	</body>
+</html>
